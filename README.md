@@ -51,6 +51,8 @@ createdb -U postgres northwind_curso
 3. **Restaurar dump completo**
 ```bash
 psql -U postgres -d northwind_curso -f northwind_curso.sql
+```
+
 
 **Alternativas usando pgAdmin Postgres
 1.Crear base de datos
