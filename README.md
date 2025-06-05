@@ -13,7 +13,7 @@ La base de datos Northwind ha sido extendida con las siguientes mejoras:
 - **Agregue tablas,realice vistas,triggers.
 
 -**Diagranma
-![Imagen JSONB]![Imagen JSONB](C:\Users\fanny\Pictures\Screenshots)
+![Imagen JSONB](diagranmabdnorthwind.png)
 
 ## 🛠️ Tecnologías
 
@@ -28,9 +28,9 @@ northwind-postgres-modificado/
 ├── backup_northwind.sql    # incluye vistas  
 ├── northwind.sql     # BD completa original
 ├── README.md         # BD modificada
-│   ├── docs          # pdf
-│   │   tree.txt        
-     Diagrama actualizado
+├── docs              # pdf
+├── tree.txt        
+├── Diagrama actualizado
     
 ```
 
