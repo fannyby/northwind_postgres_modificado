@@ -38,8 +38,9 @@ northwind-postgres-modificado/
 
 1. **Clonar repositorio**
 ```bash
-git clone https://github.com/tu-usuario/northwind-postgres-modificado.git
-cd northwind-postgres-modificado
+git clone https://github.com/fannyby/northwind_postgres_modificado.git
+
+cd northwind_postgres_modificado
 ```
 
 2. **Crear base de datos**
