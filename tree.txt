@@ -1,0 +1,9 @@
+Listado de rutas de carpetas para el volumen OS
+El número de serie del volumen es E455-FA56
+C:.
+¦   backup_northwind.sql
+¦   northwind.sql
+¦   README.md
+¦   tree.txt
+¦   
++---docs
