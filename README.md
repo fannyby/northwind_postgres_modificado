@@ -45,12 +45,12 @@ cd northwind_postgres_modificado
 
 2. **Crear base de datos**
 ```bash
-createdb northwind_curso
+createdb -U postgres northwind_curso
 ```
 
 3. **Restaurar dump completo**
 ```bash
-psql -d northwind_curso -f northwind_curso.sql
+psql -U postgres -d northwind_curso -f northwind_curso.sql
 
 **Alternativas usando pgAdmin Postgres
 1.Crear base de datos
